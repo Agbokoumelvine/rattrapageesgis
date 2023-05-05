@@ -1,0 +1,4 @@
+a- git fecth ne fait pas de merge tandis que git pull fait un envoie et fusionne directement cet envoie à la branche principale du projet
+b-
+c-
+d-
